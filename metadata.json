@@ -1,0 +1,6 @@
+{
+  "name": "Utsav — Unified Festive Event Platform",
+  "description": "One event hub replacing WhatsApp chaos and five scattered forms: voice RSVPs, pooled UPI ledger, EXIF-filtered shared album, potluck & vibe-balanced playlist, and instant event recaps.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
